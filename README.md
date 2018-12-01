@@ -5,7 +5,7 @@ Link: https://young-cliffs-63352.herokuapp.com/
 
 ### Powered by: React/MongoDB/Node.js/Express.js
 
-######Simply Enter your topic of interest and search to find related articles!
+Simply Enter your topic of interest and search to find related articles!
 
 
 
